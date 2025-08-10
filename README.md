@@ -4,7 +4,7 @@ Passionate about building efficient, reliable, and user-focused software solutio
 I work across a diverse tech stack — **Java**, **Kotlin**, **C**, **Python**, **React**, and **SQL** — and I’m driven by curiosity to turn ideas into well-crafted applications while constantly expanding my skills.  
 
 ## 🌐 Connect With Me  
-[![GitHub](https://img.shields.io/badge/GitHub-Bookinheaven-181717?style=for-the-badge&logo=github)](https://github.com/Bookinheaven) [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvik-sri-ram-reddy/) [![Discord](https://img.shields.io/badge/Discord-BurnKnuckle-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/751028800720207902)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tanvik-sri-ram-reddy/) [![Discord](https://img.shields.io/badge/Discord-BurnKnuckle-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discordapp.com/users/751028800720207902)  
 
 ## 🛠 Skills  
 
