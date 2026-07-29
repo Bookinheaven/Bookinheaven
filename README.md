@@ -10,7 +10,7 @@ Passionate about creating products that solve real-world problems while continuo
 
 <br>
 
-<a href="YOUR_PORTFOLIO_URL">
+<a href="https://portfolio-sandy-nu-64.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
@@ -18,7 +18,7 @@ Passionate about creating products that solve real-world problems while continuo
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
 </a>
 
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:tanviksriram@gmail.com">
 <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
 
