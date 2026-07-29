@@ -10,7 +10,7 @@ Passionate about creating products that solve real-world problems while continuo
 
 <br>
 
-<a href="https://portfolio-sandy-nu-64.vercel.app">
+<a href="https://tanviksriram.vercel.app">
 <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
 </a>
 
