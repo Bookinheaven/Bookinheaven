@@ -40,19 +40,19 @@ When I'm not building projects, you'll usually find me solving DSA problems, lea
 
 ---
 
-# 🚀 Currently Building
+# Currently Building
 
-## 🚀 Athena *(In Development)*
+## Athena *(In Development)*
 
 An AI-powered behavioral productivity platform designed to help users work smarter through intelligent scheduling, workflow management, adaptive insights, and a seamless desktop experience.
 
 **Tech Stack**
 
-`React` • `Electron` • `Express` • `FastAPI` • `MongoDB`
+`React` • `Electron` • `Express` • `FastAPI` • `Postgres`
 
 ---
 
-## ⚡ Hydra *(In Development)*
+## Hydra *(In Development)*
 
 An AI-assisted typing platform that analyzes typing behavior and automatically generates personalized typing exercises based on individual weaknesses.
 
@@ -62,7 +62,7 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 💼 Featured Projects
+# Featured Projects
 
 | Project | Description |
 |----------|-------------|
@@ -73,7 +73,7 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 💻 Tech Stack
+# Tech Stack
 
 ## Languages
 
@@ -132,19 +132,19 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 🎯 Engineering Interests
+# Engineering Interests
 
-- 🤖 Artificial Intelligence
-- ⚙️ Backend Engineering
-- 🌐 Full Stack Development
-- 🧠 Behavioral Computing
-- 📈 Productivity Software
-- 🖥️ Desktop Applications
-- 🏗️ System Design
+- Artificial Intelligence
+- Backend Engineering
+- Full Stack Development
+- Behavioral Computing
+- Productivity Software
+- Desktop Applications
+- System Design
 
 ---
 
-# 📈 GitHub Activity
+# GitHub Activity
 
 <p align="center">
   <a href="https://github.com/Bookinheaven">
@@ -154,7 +154,7 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 🌱 Currently Learning
+# Currently Learning
 
 - Dynamic Programming
 - System Design
@@ -165,7 +165,7 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 🤝 Open To
+# Open To
 
 - Software Engineering Internships
 - AI & Full Stack Projects
@@ -175,13 +175,13 @@ An AI-assisted typing platform that analyzes typing behavior and automatically g
 
 ---
 
-# 🎯 2026 Goals
+# 2026 Goals
 
-- 🚀 Ship Athena v1
-- ⚡ Complete Hydra
-- 🏆 Solve 250+ LeetCode problems
-- 🌍 Contribute to Open Source
-- 💼 Secure a Software Engineering role
+- Ship Athena v1
+- Complete Hydra
+- Solve 250+ LeetCode problems
+- Contribute to Open Source
+- Secure a Software Engineering role
 
 ---
 
@@ -193,7 +193,7 @@ Current obsession: **Building AI-powered productivity tools.**
 
 ---
 
-# 📚 Philosophy
+# Philosophy
 
 > *"I don't build projects to fill a resume.*
 >
