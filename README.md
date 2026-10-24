@@ -2,211 +2,121 @@
 
 # Tanvik Sri Ram Reddy
 
-### Software Engineer • Building AI-Powered Applications
+### Software Engineer • AI Applications & Scalable Systems
 
-Building intelligent software that combines **Artificial Intelligence**, **Backend Engineering**, and **Human-Centered Design**.
-
-Passionate about creating products that solve real-world problems while continuously learning system design, scalable architectures, and modern software engineering.
+Building intelligent software combining Artificial Intelligence, Backend Engineering, and Product Design.
 
 <br>
 
-<a href="https://tanviksriram.vercel.app">
-<img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/tanvik-sri-ram-reddy/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:tanviksriram@gmail.com">
-<img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-<a href="https://discordapp.com/users/751028800720207902">
-<img src="https://img.shields.io/badge/Discord-BurnKnuckle-5865F2?style=for-the-badge&logo=discord&logoColor=white"/>
-</a>
+<a href="https://tanviksriram.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+<a href="https://github.com/Bookinheaven"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+<a href="https://www.linkedin.com/in/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="https://leetcode.com/u/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+<a href="https://x.com/tanviksriram"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+<a href="mailto:tanviksriram@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://discordapp.com/users/751028800720207902"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
 
 </div>
 
 ---
 
-# 👋 About Me
+# About Me
 
-I'm a Software Engineering student who enjoys building software that solves real-world problems.
+Software Engineering student at Karunya Institute of Technology and Sciences focused on Artificial Intelligence, backend architecture, and developer tooling.
 
-My interests lie at the intersection of **Artificial Intelligence**, **Backend Engineering**, and **Productivity Software**. I enjoy transforming ideas into production-ready applications while continuously improving my understanding of scalable systems, software architecture, and user-centered design.
-
-When I'm not building projects, you'll usually find me solving DSA problems, learning new technologies, or experimenting with AI.
-
----
-
-# Currently Building
-
-## Athena *(In Development)*
-
-An AI-powered behavioral productivity platform designed to help users work smarter through intelligent scheduling, workflow management, adaptive insights, and a seamless desktop experience.
-
-**Tech Stack**
-
-`React` • `Electron` • `Express` • `FastAPI` • `Postgres`
-
----
-
-## Hydra *(In Development)*
-
-An AI-assisted typing platform that analyzes typing behavior and automatically generates personalized typing exercises based on individual weaknesses.
-
-**Tech Stack**
-
-`React` • `Express` • `FastAPI` • `Python`
+Currently building local AI CLI workflows, deep productivity systems, and exploring distributed architecture.
 
 ---
 
 # Featured Projects
 
-| Project | Description |
-|----------|-------------|
-| **InsightEX** | AI-powered analytics platform for understanding customer movement and improving retail layouts and security. |
-| **ResQit** | Disaster relief management system built with Java and PostgreSQL. |
-| **Maxol** | Movie & TV discovery application featuring search, favorites, dark mode, and infinite scrolling. |
-| **BK-Hub** | Personal archive documenting my programming journey, experiments, notes, and projects. |
+| Project | Description | Stack |
+|:---|:---|:---|
+| [**Athena**](https://github.com/Bookinheaven/Athena) | Behavioral productivity platform bridging daily planning with real-time execution | `React 19` `Electron` `Express 5` `PostgreSQL` |
+| [**Commit**](https://github.com/Bookinheaven/Commit) | Zero-cloud CLI generating Conventional Commits via local LLMs and Ollama | `Python` `Ollama` `Qwen 2.5 Coder` `Git` |
+| [**InsightEX**](https://github.com/Bookinheaven/InsightEX) | Computer vision retail analytics platform for shopper flow tracking and heatmaps | `Python` `YOLOv8` `DeepSORT` `OpenVINO` |
+| [**ResQit**](https://github.com/Bookinheaven/ResQit) | Disaster response coordination system with role-based access control | `Java` `PostgreSQL` `JDBC` |
 
 ---
 
 # Tech Stack
 
-## Languages
-
+### Languages
 <p>
-
-<img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white"/>
-<img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white"/>
-<img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black"/>
-<img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white"/>
-<img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white"/>
-<img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white"/>
-<img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java"/>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/Kotlin-7F52FF?style=flat-square&logo=kotlin&logoColor=white" alt="Kotlin"/>
+  <img src="https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white" alt="C"/>
+  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5"/>
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" alt="CSS3"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white" alt="SQL"/>
 </p>
 
-### Frontend
-
+### Frontend & Desktop
 <p>
-
-<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
-<img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/React_19-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite"/>
+  <img src="https://img.shields.io/badge/Electron-47848F?style=flat-square&logo=electron&logoColor=white" alt="Electron"/>
+  <img src="https://img.shields.io/badge/TailwindCSS_v4-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+  <img src="https://img.shields.io/badge/shadcn%2Fui-000000?style=flat-square&logo=shadcnui&logoColor=white" alt="shadcn/ui"/>
+  <img src="https://img.shields.io/badge/Framer_Motion-0055FF?style=flat-square&logo=framer&logoColor=white" alt="Framer Motion"/>
 </p>
 
-### Backend
-
+### Backend & Systems
 <p>
-
-<img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white"/>
-<img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white"/>
-<img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Express.js_5-000000?style=flat-square&logo=express&logoColor=white" alt="Express"/>
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI"/>
+  <img src="https://img.shields.io/badge/Drizzle_ORM-C5F74F?style=flat-square&logo=drizzle&logoColor=black" alt="Drizzle ORM"/>
+  <img src="https://img.shields.io/badge/REST_APIs-005571?style=flat-square&logo=postman&logoColor=white" alt="REST APIs"/>
 </p>
 
-### Databases
-
+### Databases & Caching
 <p>
-
-<img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white"/>
-<img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white"/>
-<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL"/>
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL"/>
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white" alt="Redis"/>
 </p>
 
-### Tools
-
+### AI & Machine Learning
 <p>
-
-<img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black"/>
-<img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
-<img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white"/>
-
+  <img src="https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+  <img src="https://img.shields.io/badge/YOLOv8-00FFFF?style=flat-square&logo=ultralytics&logoColor=black" alt="YOLOv8"/>
+  <img src="https://img.shields.io/badge/DeepSORT-5C6BC0?style=flat-square&logo=opencv&logoColor=white" alt="DeepSORT"/>
+  <img src="https://img.shields.io/badge/OpenVINO-0071C5?style=flat-square&logo=intel&logoColor=white" alt="OpenVINO"/>
+  <img src="https://img.shields.io/badge/Local_LLMs-FF6F00?style=flat-square&logo=huggingface&logoColor=white" alt="Local LLMs"/>
 </p>
 
----
-
-# Engineering Interests
-
-- Artificial Intelligence
-- Backend Engineering
-- Full Stack Development
-- Behavioral Computing
-- Productivity Software
-- Desktop Applications
-- System Design
+### Developer Tooling
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker"/>
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman"/>
+  <img src="https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white" alt="Figma"/>
+</p>
 
 ---
 
 # GitHub Activity
 
 <p align="center">
-  <a href="https://github.com/Bookinheaven">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=Bookinheaven&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph"/>
-  </a>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bookinheaven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bookinheaven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
----
-
-# Currently Learning
-
-- Dynamic Programming
-- System Design
-- Backend Architecture
-- AI Engineering
-- Docker & DevOps
-- Competitive Programming
-
----
-
-# Open To
-
-- Software Engineering Internships
-- AI & Full Stack Projects
-- Open Source Contributions
-- Hackathons
-- Technical Collaborations
-
----
-
-# 2026 Goals
-
-- Ship Athena v1
-- Complete Hydra
-- Solve 250+ LeetCode problems
-- Contribute to Open Source
-- Secure a Software Engineering role
-
----
-
-# ☕ Fun Fact
-
-I enjoy turning ambitious ideas into production-ready software.
-
-Current obsession: **Building AI-powered productivity tools.**
-
----
-
-# Philosophy
-
-> *"I don't build projects to fill a resume.*
->
-> *I build software that solves problems, teaches me something new, and pushes me to become a better engineer."*
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bookinheaven&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+</p>
 
 ---
 
 <div align="center">
 
-### Thanks for stopping by! 👋
-
-**Building software one commit at a time.**
-
-⭐ Feel free to explore my repositories and connect with me!
+Building software one commit at a time.
 
 </div>
