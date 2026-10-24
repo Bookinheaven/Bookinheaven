@@ -2,25 +2,29 @@
 
 # Tanvik Sri Ram Reddy
 
-### Software Engineer • AI Applications & Scalable Systems
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=70A5FD&center=true&vCenter=true&width=520&height=40&lines=Software+Engineer;Building+AI-Powered+Systems;Exploring+Local+LLMs+%26+Scalable+Backends;Terminal+%26+Deep+Work+Obsessed" alt="Typing SVG" />
 
-Building intelligent software combining Artificial Intelligence, Backend Engineering, and Product Design.
+<p>
+  Building intelligent software combining Artificial Intelligence, Backend Engineering, and Product Design.
+</p>
 
-<br>
+<p>
+  <a href="https://tanviksriram.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
+  <a href="https://github.com/Bookinheaven"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
+  <a href="https://www.linkedin.com/in/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://leetcode.com/u/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
+  <a href="https://x.com/tanviksriram"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
+  <a href="mailto:tanviksriram@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+  <a href="https://discordapp.com/users/751028800720207902"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+</p>
 
-<a href="https://tanviksriram.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/></a>
-<a href="https://github.com/Bookinheaven"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://www.linkedin.com/in/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://leetcode.com/u/tanvik-sri-ram-reddy/"><img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" alt="LeetCode"/></a>
-<a href="https://x.com/tanviksriram"><img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/></a>
-<a href="mailto:tanviksriram@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://discordapp.com/users/751028800720207902"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"/></a>
+<img src="https://komarev.com/ghpvc/?username=Bookinheaven&label=Profile%20Views&color=70a5fd&style=flat-square" alt="Profile Views"/>
 
 </div>
 
 ---
 
-# About Me
+## About Me
 
 Software Engineering student at Karunya Institute of Technology and Sciences focused on Artificial Intelligence, backend architecture, and developer tooling.
 
@@ -28,7 +32,7 @@ Currently building local AI CLI workflows, deep productivity systems, and explor
 
 ---
 
-# Featured Projects
+## Featured Projects
 
 | Project | Description | Stack |
 |:---|:---|:---|
@@ -39,7 +43,7 @@ Currently building local AI CLI workflows, deep productivity systems, and explor
 
 ---
 
-# Tech Stack
+## Tech Stack
 
 ### Languages
 <p>
@@ -102,15 +106,11 @@ Currently building local AI CLI workflows, deep productivity systems, and explor
 
 ---
 
-# GitHub Activity
+## GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Bookinheaven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" alt="GitHub Stats" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Bookinheaven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Bookinheaven&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=Bookinheaven&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" width="48%"/>
+  <img src="https://streak-stats.demolab.com/?user=Bookinheaven&theme=tokyonight&hide_border=true" alt="GitHub Streak" width="48%"/>
 </p>
 
 ---
