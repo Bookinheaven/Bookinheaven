@@ -36,6 +36,7 @@ Currently building local AI CLI workflows, deep productivity systems, and explor
 
 | Project | Description | Stack |
 |:---|:---|:---|
+| [**Support**](https://github.com/Bookinheaven/Support) | Terminal-native AI multi-database workspace and natural language SQL engine with AST safety validation | `Python` `SQLGlot` `PostgreSQL` `Ollama` |
 | [**Athena**](https://github.com/Bookinheaven/Athena) | Behavioral productivity platform bridging daily planning with real-time execution | `React 19` `Electron` `Express 5` `PostgreSQL` |
 | [**Commit**](https://github.com/Bookinheaven/Commit) | Zero-cloud CLI generating Conventional Commits via local LLMs and Ollama | `Python` `Ollama` `Qwen 2.5 Coder` `Git` |
 | [**InsightEX**](https://github.com/Bookinheaven/InsightEX) | Computer vision retail analytics platform for shopper flow tracking and heatmaps | `Python` `YOLOv8` `DeepSORT` `OpenVINO` |
